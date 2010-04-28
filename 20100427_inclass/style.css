@@ -1,3 +1,42 @@
 ﻿body {
-color:Aqua;
+background-color:black;
+
 }
+    .container
+    {
+        margin-left:auto;
+        margin-right:auto;
+    }
+    .leftcontainer
+	{
+		float:left;
+		margin-right:1px;
+		width:120px;
+	}
+	.rightcontainer
+	{
+	
+	float:left;
+	}
+	.middlecontainer
+	{
+		float:left;
+		width:512px;
+	    background-color:#CCCCCC;
+	}
+    .border1
+    {
+        border-style:solid;
+        border-width:thin;
+        background-color:#CCCCCC;
+    }
+    .header
+    {
+        width:720px;
+        background-color:#CCCCCC;
+    }
+    h3
+    {
+        margin-bottom:0;
+        margin-top:0;
+    }

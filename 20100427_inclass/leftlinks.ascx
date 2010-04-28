@@ -1,10 +1,11 @@
 ﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="leftlinks.ascx.cs" Inherits="leftlinks" %>
-<div>
-<a href="http://jasncab.com">jasncab.com</a><br />
-<a href="http://jasncab.com">jasncab.com</a><br />
-<a href="http://jasncab.com">jasncab.com</a><br />
-<a href="http://jasncab.com">jasncab.com</a><br />
-<a href="http://jasncab.com">jasncab.com</a><br />
-<a href="http://jasncab.com">jasncab.com</a><br />
-<a href="http://jasncab.com">jasncab.com</a><br />
+<div class="border1">
+<h3>My labs:</h3>
+<a href="http://jasncab.com">Week 1</a><br />
+<a href="http://jasncab.com">Week 2</a><br />
+<a href="http://jasncab.com">Week 3</a><br />
+<a href="http://jasncab.com">Week 4</a><br />
+<a href="http://jasncab.com">Week 5</a><br />
+<a href="http://jasncab.com">Week 6</a><br />
+<a href="http://jasncab.com">Week 7</a><br />
 </div>
