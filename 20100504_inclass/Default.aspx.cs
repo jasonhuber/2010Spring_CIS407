@@ -33,6 +33,24 @@ public partial class _Default : System.Web.UI.Page
         {
             Response.Write("false!");
         }
+        //web page stuff
+        System.Data.Odbc.OdbcConnection conn = new System.Data.Odbc.OdbcConnection();
+        conn.ConnectionString =
+            "Driver={MySQL ODBC 5.1 Driver};Server=;Database=kennedyhuber;User=kennedyhuber; Password=;Option=3;";
+        conn.Open();
+        string sql = "select * from bloggers";
+        System.Data.Odbc.OdbcDataReader DR;
+        System.Data.Odbc.OdbcCommand comm 
+            = new System.Data.Odbc.OdbcCommand(sql, conn);
+
+        DR = comm.ExecuteReader();
+        while (DR.Read())
+        {
+            Response.Write("<br /> Blogger:" + DR[0].ToString());
+        }
+        conn.Close();
+
+
     }
     protected void btnSubmit_Click(object sender, EventArgs e)
     {
