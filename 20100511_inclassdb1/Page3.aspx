@@ -22,6 +22,8 @@
         
         <asp:GridView ID="grdDisplay" runat="server">
         </asp:GridView>
+        <asp:GridView ID="grdXml" runat="server">
+        </asp:GridView>
     </div>
     </form>
 </body>

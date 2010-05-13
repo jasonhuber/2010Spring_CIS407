@@ -32,6 +32,13 @@ public partial class Page3 : System.Web.UI.Page
         grdDisplay.DataSource = ds.Tables[0];
         grdDisplay.DataBind();
 
+        System.Data.DataSet dsxml = new System.Data.DataSet();
+        dsxml.ReadXml(Server.MapPath("students.xml"));
+
+        grdXml.DataSource = dsxml.Tables[0];
+        grdXml.DataBind();
+
+
         conn.Close();
     }
 }
