@@ -1,0 +1,11 @@
+C:\Users\Jason\Documents\My Dropbox\Devry\CIS407\2010Spring\20100525_InClassStudentsClass\20100525_inclass_studentsCalss_consumer\bin\Debug\20100525_inclass_studentsCalss_consumer.exe
+C:\Users\Jason\Documents\My Dropbox\Devry\CIS407\2010Spring\20100525_InClassStudentsClass\20100525_inclass_studentsCalss_consumer\bin\Debug\20100525_inclass_studentsCalss_consumer.pdb
+C:\Users\Jason\Documents\My Dropbox\Devry\CIS407\2010Spring\20100525_InClassStudentsClass\20100525_inclass_studentsCalss_consumer\bin\Debug\20100525_InClassStudentsClass.dll
+C:\Users\Jason\Documents\My Dropbox\Devry\CIS407\2010Spring\20100525_InClassStudentsClass\20100525_inclass_studentsCalss_consumer\bin\Debug\20100525_InClassStudentsClass.pdb
+C:\Users\Jason\Documents\My Dropbox\Devry\CIS407\2010Spring\20100525_InClassStudentsClass\20100525_inclass_studentsCalss_consumer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jason\Documents\My Dropbox\Devry\CIS407\2010Spring\20100525_InClassStudentsClass\20100525_inclass_studentsCalss_consumer\obj\x86\Debug\_20100525_inclass_studentsCalss_consumer.Form1.resources
+C:\Users\Jason\Documents\My Dropbox\Devry\CIS407\2010Spring\20100525_InClassStudentsClass\20100525_inclass_studentsCalss_consumer\obj\x86\Debug\_20100525_inclass_studentsCalss_consumer.Properties.Resources.resources
+C:\Users\Jason\Documents\My Dropbox\Devry\CIS407\2010Spring\20100525_InClassStudentsClass\20100525_inclass_studentsCalss_consumer\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Jason\Documents\My Dropbox\Devry\CIS407\2010Spring\20100525_InClassStudentsClass\20100525_inclass_studentsCalss_consumer\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Jason\Documents\My Dropbox\Devry\CIS407\2010Spring\20100525_InClassStudentsClass\20100525_inclass_studentsCalss_consumer\obj\x86\Debug\20100525_inclass_studentsCalss_consumer.exe
+C:\Users\Jason\Documents\My Dropbox\Devry\CIS407\2010Spring\20100525_InClassStudentsClass\20100525_inclass_studentsCalss_consumer\obj\x86\Debug\20100525_inclass_studentsCalss_consumer.pdb

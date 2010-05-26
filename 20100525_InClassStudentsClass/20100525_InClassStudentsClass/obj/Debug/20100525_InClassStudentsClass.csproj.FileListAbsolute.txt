@@ -1,0 +1,5 @@
+C:\Users\Jason\Documents\My Dropbox\Devry\CIS407\2010Spring\20100525_InClassStudentsClass\20100525_InClassStudentsClass\bin\Debug\20100525_InClassStudentsClass.dll
+C:\Users\Jason\Documents\My Dropbox\Devry\CIS407\2010Spring\20100525_InClassStudentsClass\20100525_InClassStudentsClass\bin\Debug\20100525_InClassStudentsClass.pdb
+C:\Users\Jason\Documents\My Dropbox\Devry\CIS407\2010Spring\20100525_InClassStudentsClass\20100525_InClassStudentsClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jason\Documents\My Dropbox\Devry\CIS407\2010Spring\20100525_InClassStudentsClass\20100525_InClassStudentsClass\obj\Debug\20100525_InClassStudentsClass.dll
+C:\Users\Jason\Documents\My Dropbox\Devry\CIS407\2010Spring\20100525_InClassStudentsClass\20100525_InClassStudentsClass\obj\Debug\20100525_InClassStudentsClass.pdb
