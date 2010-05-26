@@ -1,0 +1,11 @@
+5/20/2010 10:17:09 AM	This log contains information about the import schema operation into project 'DeVryStudent10' on computer 'AZ54123YZ' by user 'Jason'.
+5/20/2010 10:17:12 AM	Import of database schema has started.
+5/20/2010 10:17:13 AM	The import database schema operation was canceled.
+5/20/2010 10:17:13 AM	An exception was generated.
+5/20/2010 10:17:13 AM	The reverse engineering operation cannot continue because you do not have View Any Definition permission on the server 'devrystudentsp10.db.6077598.hostedresource.com'.
+5/20/2010 10:17:13 AM	Adding all files to the project...
+5/20/2010 10:17:13 AM	Finished adding all files to the project.
+5/20/2010 10:17:13 AM	Done
+5/20/2010 10:17:13 AM	Import of database schema is complete.
+5/20/2010 10:17:13 AM	A summary of the import operation was saved to the log file C:\Users\Jason\Documents\My Dropbox\Devry\CIS407\2010Spring\DeVryStudent10\DeVryStudent10\Import Schema Logs\DeVryStudent10_20100520051709.log.
+5/20/2010 10:17:13 AM	Click Finish to continue...
