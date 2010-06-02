@@ -20,9 +20,9 @@
             <FooterTemplate></ul></FooterTemplate>
         </asp:Repeater>
         
-        <asp:GridView ID="grdDisplay" runat="server">
+        <asp:GridView ID="grdDisplay" runat="server" EnableViewState="false">
         </asp:GridView>
-        <asp:GridView ID="grdXml" runat="server">
+        <asp:GridView ID="grdXml" runat="server" EnableViewState="false">
         </asp:GridView>
     </div>
     </form>

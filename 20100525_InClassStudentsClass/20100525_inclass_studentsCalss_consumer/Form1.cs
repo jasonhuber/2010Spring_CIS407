@@ -24,9 +24,12 @@ namespace _20100525_inclass_studentsCalss_consumer
                 _20100525_InClassStudentsClass.Course myCourse = new _20100525_InClassStudentsClass.Course();
                 mystudents = myCourse.students;
 
-                mystudents[0].dnumber = "Jason was where?";
-                MessageBox.Show(mystudents[0].dnumber);
-
+                mystudents[0].dnumber = "D99006529";
+                mystudents[1].dnumber = "D1";
+                foreach (_20100525_InClassStudentsClass.Student item in mystudents)
+                {
+                    MessageBox.Show(item.dnumber);   
+                }
             }
             catch (Exception ex)
             {
