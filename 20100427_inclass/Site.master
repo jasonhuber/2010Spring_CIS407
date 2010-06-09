@@ -14,7 +14,11 @@
     <div class="container">
         <div class="header">
             <h1>Welcome to my site......</h1>
+            
         </div>
+        <asp:SiteMapPath ID="SiteMapPath1" runat="server">
+        </asp:SiteMapPath>
+        <br />
         <div class="leftcontainer">
           <uc1:leftlinks ID="leftlinks1" runat="server" />
         </div>    
