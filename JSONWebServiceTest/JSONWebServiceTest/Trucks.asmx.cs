@@ -17,6 +17,7 @@ namespace JSONWebServiceTest
        public string fuel;
        public string price;
     }
+    //this is a change
     
     /// <summary>
     /// Summary description for Trucks
